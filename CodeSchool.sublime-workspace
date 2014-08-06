@@ -47,8 +47,17 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 36,
+				"buffer_size": 544,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 185,
+				"line_ending": "Unix",
+				"name": "var app = angular.module('store', []);"
 			}
 		}
 	],
@@ -222,15 +231,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 36,
+						"buffer_size": 544,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								36,
-								36
+								510,
+								510
 							]
 						],
 						"settings":
@@ -242,6 +251,35 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								185,
+								185
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var app = angular.module('store', []);",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]

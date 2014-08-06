@@ -1,0 +1,1 @@
+Project for Angular JS Code School Course
